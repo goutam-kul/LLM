@@ -6,7 +6,7 @@
 # FAQ 
 
 ## what is an LLM ?
-LLM stand for large langugage models. An LLM is a machine learning model capable of generating understanding and interpret natural languages. 
+LLM stand for large langugage models. An LLM is a machine learning model capable of generating understanding and interpreting natural languages. 
 
 ## Why are they called LLM?
 LLMs are deep learning models with huge number of parameters from millions to couple hundred billions. They are trained on terabytes, sometimes petabye of data using thousands of GBs of GPUs. This is why they are called Large Language models.
