@@ -9,7 +9,7 @@
 from IMB - 
 > " ___Large language models (LLMs) are a category of foundation models trained on immense amounts of data making them capable of understanding and generating natural language and other types of content to perform a wide range of tasks.___ "
 
-# What are Foundation Models ?
+## What are Foundation Models ?
 from AWS - 
 > " ___Trained on massive datasets, foundation models (FMs) are large deep learning neural networks that have changed the way data scientists approach machine learning (ML). Rather than develop artificial intelligence (AI) from scratch, data scientists use a foundation model as a starting point to develop ML models that power new applications more quickly and cost-effectively.___ "
 
